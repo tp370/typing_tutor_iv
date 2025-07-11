@@ -27,3 +27,6 @@ In the zip file
 ├── TTJ.EXE
 └── TTJ.HIS
 ```
+
+
+dosbox.conf: dosbox-x configure file
